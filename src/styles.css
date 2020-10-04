@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: url("https://images.vector-images.com/clp5/270675/clp3340287.jpg");
+}
+h1 {
+  color: rgb(14, 14, 14);
+}
+button {
+  width: 20px;
+  height: 20px;
+}
+p {
+  line-height: 0;
+}
+.white {
+  background-color: white;
+}
+.red {
+  background-color: rgb(255, 0, 0);
+}
+.black {
+  background-color: rgb(0, 0, 0);
+}
+.grey {
+  background-color: rgb(89, 90, 88);
+}
+.strela {
+  width: 50px;
+  height: 30px;
+}
+input {
+  width: 50px;
+  height: 24px;
+}
+.start {
+  width: 70px;
+  height: 30px;
+}
